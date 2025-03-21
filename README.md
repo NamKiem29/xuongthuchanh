@@ -1,4 +1,4 @@
-##Quy trình chạy dự án##
+##Quy trình chạy dự án
 
 **Bước 1:**
 Sử dụng git clone để clone dự án
