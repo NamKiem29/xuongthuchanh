@@ -47,12 +47,12 @@ php artisan key:generate
 ```
 **Bước 9:**
 Khởi chạy dự án
--Cách 1:
+- Cách 1:
 ```bash
 npm run dev
 php artisan serve
 ```
-Cách 2:
+- Cách 2:
 ```bash
 composer run dev
 ```
