@@ -10,4 +10,12 @@ export default defineConfig({
         }),
         tailwindcss(),
     ],
+    css: {
+        preprocessorOptions: {
+          scss: {
+            additionalData: `@import "bootstrap/scss/bootstrap";`
+          }
+        }
+      }
+    
 });

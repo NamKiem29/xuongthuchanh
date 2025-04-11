@@ -18,7 +18,7 @@ class Product extends Model
         'price',
         'discount_percent',
         'stock_quantity',
-        'category-id',
+        'category_id',
         'brand_id',
         'created_at',
         'updated_at'
