@@ -1,0 +1,17 @@
+Bài 1: 
+Đã học được cách cài đặt laravel, đẩy laravel lên gitHub
+
+Bài 2:
+Học được cách viết migration xây dựng CSDL
+
+Bài 3:
+Học cách sử dụng Seeder và Factory để tạo dữ liệu mẫu
+
+Bài 4:
+Học Query build (insert, update, delete)
+
+Bài 5:
+Học được Elonquent Model
+
+Bài 6:
+Học sử dụng mô hình Services Repositories trong CRUD
